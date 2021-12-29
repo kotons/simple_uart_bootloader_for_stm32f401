@@ -1,0 +1,9 @@
+main.c:82:5:main	8	static
+main.c:138:6:SystemClock_Config	96	static
+main.c:180:13:MX_USART2_UART_Init	8	static
+main.c:215:13:MX_USART3_UART_Init	8	static
+main.c:250:13:MX_GPIO_Init	40	static
+main.c:282:6:MX_GPIO_DeInit	8	static
+main.c:297:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:302:6:HAL_UART_RxCpltCallback	16	static
+main.c:320:6:Error_Handler	4	static,ignoring_inline_asm

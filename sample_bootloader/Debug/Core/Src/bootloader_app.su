@@ -1,0 +1,9 @@
+bootloader_app.c:32:6:go_to_application	16	static,ignoring_inline_asm
+bootloader_app.c:51:9:bootloader_clear_app_sector	32	static
+bootloader_app.c:73:9:bootloader_flash_begin	8	static
+bootloader_app.c:80:9:bootloader_flash_app	24	static
+bootloader_app.c:108:9:bootloader_flash_end	8	static
+bootloader_app.c:112:9:Bootloader_CheckForApplication	4	static
+bootloader_app.c:120:9:bootloader_process_received_packet_frame	16	static
+bootloader_app.c:146:6:ota_callback_function	16	static
+bootloader_app.c:155:6:bootloader_process_fsm	24	static
