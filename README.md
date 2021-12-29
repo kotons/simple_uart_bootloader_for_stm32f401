@@ -1,1 +1,1 @@
-# simple_uart_bootloader_for_stn32f401
+# simple_uart_bootloader_for_stm32f401
